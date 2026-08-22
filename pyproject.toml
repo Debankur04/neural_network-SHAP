@@ -9,7 +9,7 @@ dependencies = [
     "numpy",
     "pillow",
     "onnxruntime",
-    "shap",
+    "shap>=0.46",
     "matplotlib",
     "opencv-python>=5.0.0.93",
 ]
