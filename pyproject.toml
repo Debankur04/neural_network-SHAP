@@ -11,5 +11,5 @@ dependencies = [
     "onnxruntime",
     "shap>=0.46",
     "matplotlib",
-    "opencv-python>=5.0.0.93",
+    "opencv-python-headless>=5.0.0.93",
 ]
